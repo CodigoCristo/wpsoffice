@@ -2,7 +2,7 @@
 
 ## Instalación en Arch Linux
 ```bash
-yay -S wps-office ttf-wps-fonts --noconfirm
+yay -S wps-office ttf-wps-fonts --noconfirm --noeditmenu
 ```
 
 ## Clonamos el repositorio con git
