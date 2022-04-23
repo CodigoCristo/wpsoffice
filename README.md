@@ -30,4 +30,8 @@ sh install.sh
 ```bash
 sh install_skins.sh
 ```
- 
+
+- Ejecutamos para tener fuentes arial, times, roboto, calibri:
+```bash
+sh install_fontwin.sh
+```
