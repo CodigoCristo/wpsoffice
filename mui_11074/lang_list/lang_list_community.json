@@ -1,0 +1,62 @@
+[
+	{
+        "locale" : "zh_CN",
+        "online" : false,
+		"plugin_name" : "lang_zh",
+        "type" : "",
+        "text" : {
+            "name_en" : "简体中文",
+            "name_current_lang" : "简体中文",
+            "title" : "选择语言",
+            "initializing" : "初始化中...",
+            "run_in_bg" : "后台运行",
+            "install_configuration" : "安装语言包，配置应用环境。",
+            "failed_re_download" : "下载语言包失败，点击重新下载。",
+            "new_lang" : "WPS支持 %1, 点击完成安装。",
+            "follow_sys" : "跟随系统语言",
+            "reboot" : "切换语言后，您需要重启WPS来应用修改。",
+            "follow_sys_or_en" : "默认跟随系统语言，若WPS不支持该语言将显示英文。",
+            "not_downloaded" : "没有下载",
+            "bg_download" : "后台下载",
+            "re_download" : "重新下载",
+            "download" : "下载 ",
+            "download_finished" : "已下载 %1",
+            "do_it_later" : "稍后执行",
+            "set_now" : "立刻执行",
+            "exit_cancel_download" : "退出后将取消正在进行的下载。",
+			"cancel_download" : "取消下载",
+			"recommend" : "推荐",
+			"apply" : "应用"
+        }
+    },
+    {
+        "locale" : "en_US",
+        "online" : false,
+		"plugin_name" : "lang_en",
+        "type" : "",
+        "text" : {
+            "name_en" : "English (USA)",
+            "name_current_lang" : "English (USA)",
+            "title" : "Choose Language",
+            "initializing" : "Initializing...",
+            "run_in_bg" : "Run in background",
+            "install_configuration" : "Install language pack, configuration application environment.",
+            "failed_re_download" : "Download language pack failed, click here to downloaded again.",
+            "new_lang" : "WPS support %1, click here to complete the setup.",
+            "follow_sys" : "Follow Windows system language",
+            "reboot" : "After changing the language, you need to restart WPS to display.",
+            "follow_sys_or_en" : "It will follow Windows system language,and display English if WPS does not support it.",
+            "not_downloaded" : "Not downloaded",
+            "bg_download" : "Download in background",
+            "re_download" : "Download again",
+            "download" : "Download ",
+            "download_finished" : "%1 has been downloaded",
+            "do_it_later" : "Do it Later",
+            "set_now" : "Set now",
+            "exit_cancel_download" : "Downloading will be canceled after exiting.",
+			"cancel_download" : "Cancel download",
+			"recommend" : "Recommend",
+			"apply" : "Apply"
+        }
+    }
+]
